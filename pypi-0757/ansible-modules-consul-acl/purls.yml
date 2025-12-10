@@ -1,0 +1,5 @@
+- pkg:pypi/ansible-modules-consul-acl@0.0.1
+- pkg:pypi/ansible-modules-consul-acl@0.1.0
+- pkg:pypi/ansible-modules-consul-acl@0.2.0
+- pkg:pypi/ansible-modules-consul-acl@0.3.0
+- pkg:pypi/ansible-modules-consul-acl@0.4.0
