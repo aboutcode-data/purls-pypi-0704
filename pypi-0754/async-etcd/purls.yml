@@ -1,0 +1,5 @@
+- pkg:pypi/async-etcd@0.0.0
+- pkg:pypi/async-etcd@0.0.0.dev1
+- pkg:pypi/async-etcd@0.0.0.dev2
+- pkg:pypi/async-etcd@0.0.0.dev3
+- pkg:pypi/async-etcd@0.0.0.dev4
