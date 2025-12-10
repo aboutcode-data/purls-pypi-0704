@@ -1,0 +1,17 @@
+- pkg:pypi/azure-storage@0.20.0
+- pkg:pypi/azure-storage@0.20.0rc1
+- pkg:pypi/azure-storage@0.20.0rc2
+- pkg:pypi/azure-storage@0.20.1
+- pkg:pypi/azure-storage@0.20.2
+- pkg:pypi/azure-storage@0.20.3
+- pkg:pypi/azure-storage@0.30.0
+- pkg:pypi/azure-storage@0.31.0
+- pkg:pypi/azure-storage@0.32.0
+- pkg:pypi/azure-storage@0.33.0
+- pkg:pypi/azure-storage@0.34.0
+- pkg:pypi/azure-storage@0.34.2
+- pkg:pypi/azure-storage@0.34.3
+- pkg:pypi/azure-storage@0.35.0
+- pkg:pypi/azure-storage@0.35.1
+- pkg:pypi/azure-storage@0.36.0
+- pkg:pypi/azure-storage@0.37.0
