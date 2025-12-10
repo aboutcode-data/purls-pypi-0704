@@ -1,0 +1,6 @@
+- pkg:pypi/apache-airflow-backport-providers-apache-kylin@2020.10.29
+- pkg:pypi/apache-airflow-backport-providers-apache-kylin@2020.10.29rc1
+- pkg:pypi/apache-airflow-backport-providers-apache-kylin@2020.10.5
+- pkg:pypi/apache-airflow-backport-providers-apache-kylin@2020.10.5rc1
+- pkg:pypi/apache-airflow-backport-providers-apache-kylin@2021.3.17
+- pkg:pypi/apache-airflow-backport-providers-apache-kylin@2021.3.17rc1
