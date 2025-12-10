@@ -1,0 +1,4 @@
+- pkg:pypi/airflow-kubernetes-job-operator-latest@0.0.1
+- pkg:pypi/airflow-kubernetes-job-operator-latest@0.0.4
+- pkg:pypi/airflow-kubernetes-job-operator-latest@0.0.6
+- pkg:pypi/airflow-kubernetes-job-operator-latest@0.0.7

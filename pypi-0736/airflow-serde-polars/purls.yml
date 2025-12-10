@@ -1,0 +1,2 @@
+- pkg:pypi/airflow-serde-polars@0.1.1
+- pkg:pypi/airflow-serde-polars@0.2.0
