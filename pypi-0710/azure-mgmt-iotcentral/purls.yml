@@ -1,0 +1,12 @@
+- pkg:pypi/azure-mgmt-iotcentral@0.1.0
+- pkg:pypi/azure-mgmt-iotcentral@0.2.0
+- pkg:pypi/azure-mgmt-iotcentral@1.0.0
+- pkg:pypi/azure-mgmt-iotcentral@10.0.0b1
+- pkg:pypi/azure-mgmt-iotcentral@10.0.0b2
+- pkg:pypi/azure-mgmt-iotcentral@2.0.0
+- pkg:pypi/azure-mgmt-iotcentral@3.0.0
+- pkg:pypi/azure-mgmt-iotcentral@3.1.0
+- pkg:pypi/azure-mgmt-iotcentral@4.0.0
+- pkg:pypi/azure-mgmt-iotcentral@4.1.0
+- pkg:pypi/azure-mgmt-iotcentral@9.0.0
+- pkg:pypi/azure-mgmt-iotcentral@9.0.0b1
