@@ -1,0 +1,4 @@
+- pkg:pypi/beaker-mongo@0.1
+- pkg:pypi/beaker-mongo@0.2
+- pkg:pypi/beaker-mongo@0.2.1
+- pkg:pypi/beaker-mongo@0.2.2
