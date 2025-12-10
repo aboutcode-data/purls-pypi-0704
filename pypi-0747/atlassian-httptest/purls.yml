@@ -1,0 +1,4 @@
+- pkg:pypi/atlassian-httptest@0.10
+- pkg:pypi/atlassian-httptest@0.8
+- pkg:pypi/atlassian-httptest@0.9
+- pkg:pypi/atlassian-httptest@1.0.0
