@@ -4,6 +4,11 @@
 - pkg:pypi/awslabs.amazon-sns-sqs-mcp-server@2.0.0
 - pkg:pypi/awslabs.amazon-sns-sqs-mcp-server@2.0.1
 - pkg:pypi/awslabs.amazon-sns-sqs-mcp-server@2.0.10
+- pkg:pypi/awslabs.amazon-sns-sqs-mcp-server@2.0.11
+- pkg:pypi/awslabs.amazon-sns-sqs-mcp-server@2.0.12
+- pkg:pypi/awslabs.amazon-sns-sqs-mcp-server@2.0.13
+- pkg:pypi/awslabs.amazon-sns-sqs-mcp-server@2.0.14
+- pkg:pypi/awslabs.amazon-sns-sqs-mcp-server@2.0.15
 - pkg:pypi/awslabs.amazon-sns-sqs-mcp-server@2.0.2
 - pkg:pypi/awslabs.amazon-sns-sqs-mcp-server@2.0.3
 - pkg:pypi/awslabs.amazon-sns-sqs-mcp-server@2.0.4

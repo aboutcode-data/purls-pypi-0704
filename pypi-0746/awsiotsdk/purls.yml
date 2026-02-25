@@ -52,6 +52,9 @@
 - pkg:pypi/awsiotsdk@1.24.0
 - pkg:pypi/awsiotsdk@1.25.1
 - pkg:pypi/awsiotsdk@1.26.0
+- pkg:pypi/awsiotsdk@1.27.0
+- pkg:pypi/awsiotsdk@1.28.0
+- pkg:pypi/awsiotsdk@1.28.1
 - pkg:pypi/awsiotsdk@1.3.0
 - pkg:pypi/awsiotsdk@1.3.1
 - pkg:pypi/awsiotsdk@1.3.2

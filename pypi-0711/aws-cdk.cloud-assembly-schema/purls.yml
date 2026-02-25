@@ -634,3 +634,16 @@
 - pkg:pypi/aws-cdk.cloud-assembly-schema@48.7.0
 - pkg:pypi/aws-cdk.cloud-assembly-schema@48.8.0
 - pkg:pypi/aws-cdk.cloud-assembly-schema@48.9.0
+- pkg:pypi/aws-cdk.cloud-assembly-schema@49.0.0
+- pkg:pypi/aws-cdk.cloud-assembly-schema@49.1.0
+- pkg:pypi/aws-cdk.cloud-assembly-schema@49.2.0
+- pkg:pypi/aws-cdk.cloud-assembly-schema@49.3.0
+- pkg:pypi/aws-cdk.cloud-assembly-schema@49.4.0
+- pkg:pypi/aws-cdk.cloud-assembly-schema@50.0.0
+- pkg:pypi/aws-cdk.cloud-assembly-schema@50.1.0
+- pkg:pypi/aws-cdk.cloud-assembly-schema@50.2.0
+- pkg:pypi/aws-cdk.cloud-assembly-schema@50.3.0
+- pkg:pypi/aws-cdk.cloud-assembly-schema@50.4.0
+- pkg:pypi/aws-cdk.cloud-assembly-schema@52.0.0
+- pkg:pypi/aws-cdk.cloud-assembly-schema@52.1.0
+- pkg:pypi/aws-cdk.cloud-assembly-schema@52.2.0
