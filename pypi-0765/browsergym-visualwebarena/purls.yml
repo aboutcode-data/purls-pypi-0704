@@ -14,8 +14,12 @@
 - pkg:pypi/browsergym-visualwebarena@0.14.0
 - pkg:pypi/browsergym-visualwebarena@0.14.1
 - pkg:pypi/browsergym-visualwebarena@0.14.2
+- pkg:pypi/browsergym-visualwebarena@0.14.3
 - pkg:pypi/browsergym-visualwebarena@0.14.3.dev0
 - pkg:pypi/browsergym-visualwebarena@0.14.3.dev1
+- pkg:pypi/browsergym-visualwebarena@0.14.3.dev2
+- pkg:pypi/browsergym-visualwebarena@0.14.3.dev3
+- pkg:pypi/browsergym-visualwebarena@0.14.3.dev4
 - pkg:pypi/browsergym-visualwebarena@0.3.6.dev0
 - pkg:pypi/browsergym-visualwebarena@0.4.0
 - pkg:pypi/browsergym-visualwebarena@0.4.1
