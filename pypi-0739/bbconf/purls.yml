@@ -14,6 +14,15 @@
 - pkg:pypi/bbconf@0.11.4
 - pkg:pypi/bbconf@0.12.0
 - pkg:pypi/bbconf@0.13.0
+- pkg:pypi/bbconf@0.14.0
+- pkg:pypi/bbconf@0.14.1
+- pkg:pypi/bbconf@0.14.2
+- pkg:pypi/bbconf@0.14.3
+- pkg:pypi/bbconf@0.14.4
+- pkg:pypi/bbconf@0.14.5
+- pkg:pypi/bbconf@0.14.6
+- pkg:pypi/bbconf@0.14.7
+- pkg:pypi/bbconf@0.14.8
 - pkg:pypi/bbconf@0.2.0
 - pkg:pypi/bbconf@0.2.1
 - pkg:pypi/bbconf@0.3.1

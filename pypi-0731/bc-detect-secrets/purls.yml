@@ -81,6 +81,7 @@
 - pkg:pypi/bc-detect-secrets@1.5.43
 - pkg:pypi/bc-detect-secrets@1.5.44
 - pkg:pypi/bc-detect-secrets@1.5.45
+- pkg:pypi/bc-detect-secrets@1.5.46
 - pkg:pypi/bc-detect-secrets@1.5.5
 - pkg:pypi/bc-detect-secrets@1.5.6
 - pkg:pypi/bc-detect-secrets@1.5.7
