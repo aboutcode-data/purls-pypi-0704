@@ -38,3 +38,8 @@
 - pkg:pypi/async-kinesis@2.0.0
 - pkg:pypi/async-kinesis@2.1.0
 - pkg:pypi/async-kinesis@2.2.0
+- pkg:pypi/async-kinesis@2.2.1
+- pkg:pypi/async-kinesis@2.2.2
+- pkg:pypi/async-kinesis@2.2.3
+- pkg:pypi/async-kinesis@2.2.4
+- pkg:pypi/async-kinesis@2.2.5
