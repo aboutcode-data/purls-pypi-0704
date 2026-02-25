@@ -47,6 +47,7 @@
 - pkg:pypi/carrier-api@2.1.6
 - pkg:pypi/carrier-api@2.10.0
 - pkg:pypi/carrier-api@2.11.0
+- pkg:pypi/carrier-api@2.11.1
 - pkg:pypi/carrier-api@2.2.0
 - pkg:pypi/carrier-api@2.2.1
 - pkg:pypi/carrier-api@2.3.0
