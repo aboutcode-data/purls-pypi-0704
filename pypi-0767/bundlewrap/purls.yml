@@ -112,3 +112,6 @@
 - pkg:pypi/bundlewrap@4.8.1
 - pkg:pypi/bundlewrap@4.8.2
 - pkg:pypi/bundlewrap@4.9.0
+- pkg:pypi/bundlewrap@5.0.0
+- pkg:pypi/bundlewrap@5.0.1
+- pkg:pypi/bundlewrap@5.0.2
