@@ -55,3 +55,6 @@
 - pkg:pypi/biocframe@0.6.1
 - pkg:pypi/biocframe@0.6.2
 - pkg:pypi/biocframe@0.6.3
+- pkg:pypi/biocframe@0.7.0
+- pkg:pypi/biocframe@0.7.1
+- pkg:pypi/biocframe@0.7.2
