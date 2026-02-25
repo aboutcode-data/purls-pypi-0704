@@ -1,6 +1,19 @@
 - pkg:pypi/bn-byneuron@0.0.1
 - pkg:pypi/bn-byneuron@0.0.10
+- pkg:pypi/bn-byneuron@0.0.100
+- pkg:pypi/bn-byneuron@0.0.101
+- pkg:pypi/bn-byneuron@0.0.102
+- pkg:pypi/bn-byneuron@0.0.103
+- pkg:pypi/bn-byneuron@0.0.104
+- pkg:pypi/bn-byneuron@0.0.105
+- pkg:pypi/bn-byneuron@0.0.106
+- pkg:pypi/bn-byneuron@0.0.107
+- pkg:pypi/bn-byneuron@0.0.108
+- pkg:pypi/bn-byneuron@0.0.109
 - pkg:pypi/bn-byneuron@0.0.11
+- pkg:pypi/bn-byneuron@0.0.110
+- pkg:pypi/bn-byneuron@0.0.111
+- pkg:pypi/bn-byneuron@0.0.112
 - pkg:pypi/bn-byneuron@0.0.12
 - pkg:pypi/bn-byneuron@0.0.13
 - pkg:pypi/bn-byneuron@0.0.14
@@ -94,3 +107,5 @@
 - pkg:pypi/bn-byneuron@0.0.95
 - pkg:pypi/bn-byneuron@0.0.96
 - pkg:pypi/bn-byneuron@0.0.97
+- pkg:pypi/bn-byneuron@0.0.98
+- pkg:pypi/bn-byneuron@0.0.99
