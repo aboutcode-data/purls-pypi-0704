@@ -3,6 +3,10 @@
 - pkg:pypi/chainswarm-core@0.1.11
 - pkg:pypi/chainswarm-core@0.1.12
 - pkg:pypi/chainswarm-core@0.1.13
+- pkg:pypi/chainswarm-core@0.1.14
+- pkg:pypi/chainswarm-core@0.1.15
+- pkg:pypi/chainswarm-core@0.1.16
+- pkg:pypi/chainswarm-core@0.1.17
 - pkg:pypi/chainswarm-core@0.1.2
 - pkg:pypi/chainswarm-core@0.1.3
 - pkg:pypi/chainswarm-core@0.1.4
