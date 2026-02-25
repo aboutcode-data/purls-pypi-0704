@@ -2,6 +2,12 @@
 - pkg:pypi/asyncer@0.0.1
 - pkg:pypi/asyncer@0.0.10
 - pkg:pypi/asyncer@0.0.11
+- pkg:pypi/asyncer@0.0.12
+- pkg:pypi/asyncer@0.0.13
+- pkg:pypi/asyncer@0.0.14
+- pkg:pypi/asyncer@0.0.15
+- pkg:pypi/asyncer@0.0.16
+- pkg:pypi/asyncer@0.0.17
 - pkg:pypi/asyncer@0.0.2
 - pkg:pypi/asyncer@0.0.3
 - pkg:pypi/asyncer@0.0.4
