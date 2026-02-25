@@ -26,3 +26,6 @@
 - pkg:pypi/arcade-slack@1.2.0
 - pkg:pypi/arcade-slack@1.2.1
 - pkg:pypi/arcade-slack@2.0.0
+- pkg:pypi/arcade-slack@2.1.0
+- pkg:pypi/arcade-slack@2.3.0
+- pkg:pypi/arcade-slack@2.4.0

@@ -238,3 +238,6 @@
 - pkg:pypi/arcade@3.3.1
 - pkg:pypi/arcade@3.3.2
 - pkg:pypi/arcade@3.3.3
+- pkg:pypi/arcade@4.0.0.dev1
+- pkg:pypi/arcade@4.0.0.dev2
+- pkg:pypi/arcade@4.0.0.dev3
