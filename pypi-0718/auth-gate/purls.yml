@@ -2,3 +2,6 @@
 - pkg:pypi/auth-gate@0.2.0
 - pkg:pypi/auth-gate@0.2.2
 - pkg:pypi/auth-gate@0.2.3
+- pkg:pypi/auth-gate@0.3.0
+- pkg:pypi/auth-gate@0.3.1
+- pkg:pypi/auth-gate@0.4.0
