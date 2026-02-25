@@ -28,3 +28,4 @@
 - pkg:pypi/adafruit-circuitpython-mcp3xxx@1.4.7
 - pkg:pypi/adafruit-circuitpython-mcp3xxx@1.4.8
 - pkg:pypi/adafruit-circuitpython-mcp3xxx@1.4.9
+- pkg:pypi/adafruit-circuitpython-mcp3xxx@1.5.0

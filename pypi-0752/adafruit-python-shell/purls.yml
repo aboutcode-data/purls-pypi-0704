@@ -3,6 +3,7 @@
 - pkg:pypi/adafruit-python-shell@1.1.0
 - pkg:pypi/adafruit-python-shell@1.10.0
 - pkg:pypi/adafruit-python-shell@1.11.0
+- pkg:pypi/adafruit-python-shell@1.11.1
 - pkg:pypi/adafruit-python-shell@1.2.0
 - pkg:pypi/adafruit-python-shell@1.2.1
 - pkg:pypi/adafruit-python-shell@1.2.2
