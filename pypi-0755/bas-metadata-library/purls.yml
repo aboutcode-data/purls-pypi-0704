@@ -12,8 +12,16 @@
 - pkg:pypi/bas-metadata-library@0.15.1
 - pkg:pypi/bas-metadata-library@0.15.2
 - pkg:pypi/bas-metadata-library@0.15.3
+- pkg:pypi/bas-metadata-library@0.16.0
 - pkg:pypi/bas-metadata-library@0.16.0a1
 - pkg:pypi/bas-metadata-library@0.16.0a2
+- pkg:pypi/bas-metadata-library@0.16.0a3
+- pkg:pypi/bas-metadata-library@0.16.0a4
+- pkg:pypi/bas-metadata-library@0.16.0a5
+- pkg:pypi/bas-metadata-library@0.16.0a6
+- pkg:pypi/bas-metadata-library@0.16.0a7
+- pkg:pypi/bas-metadata-library@0.16.0a8
+- pkg:pypi/bas-metadata-library@0.16.0rc1
 - pkg:pypi/bas-metadata-library@0.2.0
 - pkg:pypi/bas-metadata-library@0.2.1
 - pkg:pypi/bas-metadata-library@0.2.2
