@@ -53,6 +53,7 @@
 - pkg:pypi/annarchy@4.8.2.3
 - pkg:pypi/annarchy@4.8.2.5
 - pkg:pypi/annarchy@4.8.2.6
+- pkg:pypi/annarchy@5.0.0
 - pkg:pypi/annarchy@5.0.0rc0
 - pkg:pypi/annarchy@5.0.0rc10
 - pkg:pypi/annarchy@5.0.0rc2
@@ -63,3 +64,4 @@
 - pkg:pypi/annarchy@5.0.0rc7
 - pkg:pypi/annarchy@5.0.0rc8
 - pkg:pypi/annarchy@5.0.0rc9
+- pkg:pypi/annarchy@5.0.1

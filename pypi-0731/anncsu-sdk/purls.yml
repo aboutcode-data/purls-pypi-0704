@@ -1,7 +1,13 @@
 - pkg:pypi/anncsu-sdk@0.0.1
 - pkg:pypi/anncsu-sdk@0.0.1.dev21
 - pkg:pypi/anncsu-sdk@0.0.1.dev24
+- pkg:pypi/anncsu-sdk@0.0.1.dev28
+- pkg:pypi/anncsu-sdk@0.0.1.dev30
+- pkg:pypi/anncsu-sdk@0.0.1.dev31
+- pkg:pypi/anncsu-sdk@0.0.1.dev32
 - pkg:pypi/anncsu-sdk@0.0.2
 - pkg:pypi/anncsu-sdk@0.0.3
 - pkg:pypi/anncsu-sdk@0.0.4
 - pkg:pypi/anncsu-sdk@0.0.5
+- pkg:pypi/anncsu-sdk@0.0.6
+- pkg:pypi/anncsu-sdk@0.0.7.dev1
