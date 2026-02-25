@@ -46,3 +46,6 @@
 - pkg:pypi/bpkio-cli@2.7.0
 - pkg:pypi/bpkio-cli@2.8.0
 - pkg:pypi/bpkio-cli@2.9.0
+- pkg:pypi/bpkio-cli@3.0.0
+- pkg:pypi/bpkio-cli@3.1.0
+- pkg:pypi/bpkio-cli@3.2.0
