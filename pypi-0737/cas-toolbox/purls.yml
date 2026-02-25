@@ -45,8 +45,16 @@
 - pkg:pypi/cas-toolbox@2025.49.1
 - pkg:pypi/cas-toolbox@2025.50.1
 - pkg:pypi/cas-toolbox@2025.50.2
+- pkg:pypi/cas-toolbox@2025.51.1
+- pkg:pypi/cas-toolbox@2025.52.1
 - pkg:pypi/cas-toolbox@2025.7
 - pkg:pypi/cas-toolbox@2025.7.1
 - pkg:pypi/cas-toolbox@2025.7.2
 - pkg:pypi/cas-toolbox@2025.8.2
 - pkg:pypi/cas-toolbox@2025.9.1
+- pkg:pypi/cas-toolbox@2026.2.1
+- pkg:pypi/cas-toolbox@2026.6.1
+- pkg:pypi/cas-toolbox@2026.6.2
+- pkg:pypi/cas-toolbox@2026.6.3
+- pkg:pypi/cas-toolbox@2026.8.1
+- pkg:pypi/cas-toolbox@2026.9.1
