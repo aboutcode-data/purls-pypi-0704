@@ -57,6 +57,7 @@
 - pkg:pypi/c7n-mailer@0.6.45
 - pkg:pypi/c7n-mailer@0.6.46
 - pkg:pypi/c7n-mailer@0.6.47
+- pkg:pypi/c7n-mailer@0.6.48
 - pkg:pypi/c7n-mailer@0.6.5
 - pkg:pypi/c7n-mailer@0.6.6
 - pkg:pypi/c7n-mailer@0.6.7
