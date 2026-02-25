@@ -18,3 +18,5 @@
 - pkg:pypi/bomcheck@2.1
 - pkg:pypi/bomcheck@2.2
 - pkg:pypi/bomcheck@2.3
+- pkg:pypi/bomcheck@2.4
+- pkg:pypi/bomcheck@2.5

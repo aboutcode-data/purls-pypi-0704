@@ -109,6 +109,7 @@
 - pkg:pypi/borgbackup@2.0.0b18
 - pkg:pypi/borgbackup@2.0.0b19
 - pkg:pypi/borgbackup@2.0.0b2
+- pkg:pypi/borgbackup@2.0.0b20
 - pkg:pypi/borgbackup@2.0.0b3
 - pkg:pypi/borgbackup@2.0.0b4
 - pkg:pypi/borgbackup@2.0.0b5
