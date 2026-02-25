@@ -264,6 +264,7 @@
 - pkg:pypi/cdktf-cdktf-provider-aws@21.20.0
 - pkg:pypi/cdktf-cdktf-provider-aws@21.21.0
 - pkg:pypi/cdktf-cdktf-provider-aws@21.22.0
+- pkg:pypi/cdktf-cdktf-provider-aws@21.22.1
 - pkg:pypi/cdktf-cdktf-provider-aws@21.3.0
 - pkg:pypi/cdktf-cdktf-provider-aws@21.4.0
 - pkg:pypi/cdktf-cdktf-provider-aws@21.5.0
