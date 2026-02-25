@@ -4,3 +4,4 @@
 - pkg:pypi/apache-airflow-providers-microsoft-fabric@0.0.6
 - pkg:pypi/apache-airflow-providers-microsoft-fabric@0.0.7
 - pkg:pypi/apache-airflow-providers-microsoft-fabric@0.0.8
+- pkg:pypi/apache-airflow-providers-microsoft-fabric@0.0.9

@@ -34,6 +34,8 @@
 - pkg:pypi/apache-airflow-providers-zendesk@4.10.4rc1
 - pkg:pypi/apache-airflow-providers-zendesk@4.11.0
 - pkg:pypi/apache-airflow-providers-zendesk@4.11.0rc1
+- pkg:pypi/apache-airflow-providers-zendesk@4.11.1
+- pkg:pypi/apache-airflow-providers-zendesk@4.11.1rc1
 - pkg:pypi/apache-airflow-providers-zendesk@4.2.0
 - pkg:pypi/apache-airflow-providers-zendesk@4.2.0rc1
 - pkg:pypi/apache-airflow-providers-zendesk@4.3.0
