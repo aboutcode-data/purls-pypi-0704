@@ -84,5 +84,6 @@
 - pkg:pypi/azureml-evaluate-mlflow@0.0.82
 - pkg:pypi/azureml-evaluate-mlflow@0.0.83
 - pkg:pypi/azureml-evaluate-mlflow@0.0.84
+- pkg:pypi/azureml-evaluate-mlflow@0.0.85
 - pkg:pypi/azureml-evaluate-mlflow@0.0.9
 - pkg:pypi/azureml-evaluate-mlflow@47.0.0

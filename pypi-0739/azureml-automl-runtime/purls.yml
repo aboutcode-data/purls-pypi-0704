@@ -129,6 +129,7 @@
 - pkg:pypi/azureml-automl-runtime@1.6.0.post2
 - pkg:pypi/azureml-automl-runtime@1.60.0
 - pkg:pypi/azureml-automl-runtime@1.61.0
+- pkg:pypi/azureml-automl-runtime@1.62.0
 - pkg:pypi/azureml-automl-runtime@1.7.0
 - pkg:pypi/azureml-automl-runtime@1.7.0.post1
 - pkg:pypi/azureml-automl-runtime@1.7.0.post2
