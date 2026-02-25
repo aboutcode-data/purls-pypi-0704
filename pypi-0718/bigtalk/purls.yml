@@ -1,1 +1,7 @@
 - pkg:pypi/bigtalk@1
+- pkg:pypi/bigtalk@2
+- pkg:pypi/bigtalk@3
+- pkg:pypi/bigtalk@4
+- pkg:pypi/bigtalk@5
+- pkg:pypi/bigtalk@6
+- pkg:pypi/bigtalk@7

@@ -26,3 +26,5 @@
 - pkg:pypi/bi-etl@1.8.0
 - pkg:pypi/bi-etl@1.8.1
 - pkg:pypi/bi-etl@1.8.2
+- pkg:pypi/bi-etl@1.8.3
+- pkg:pypi/bi-etl@1.8.4
