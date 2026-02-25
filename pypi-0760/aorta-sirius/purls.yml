@@ -51,7 +51,12 @@
 - pkg:pypi/aorta-sirius@0.55
 - pkg:pypi/aorta-sirius@0.56
 - pkg:pypi/aorta-sirius@0.57
+- pkg:pypi/aorta-sirius@0.58
+- pkg:pypi/aorta-sirius@0.59
 - pkg:pypi/aorta-sirius@0.6
+- pkg:pypi/aorta-sirius@0.60
+- pkg:pypi/aorta-sirius@0.61
+- pkg:pypi/aorta-sirius@0.62
 - pkg:pypi/aorta-sirius@0.7
 - pkg:pypi/aorta-sirius@0.8
 - pkg:pypi/aorta-sirius@0.9

@@ -8,6 +8,8 @@
 - pkg:pypi/antchain-demosdk@1.3.23
 - pkg:pypi/antchain-demosdk@1.3.24
 - pkg:pypi/antchain-demosdk@1.3.33
+- pkg:pypi/antchain-demosdk@1.3.39
+- pkg:pypi/antchain-demosdk@1.3.40
 - pkg:pypi/antchain-demosdk@1.3.6
 - pkg:pypi/antchain-demosdk@1.3.7
 - pkg:pypi/antchain-demosdk@1.3.8
