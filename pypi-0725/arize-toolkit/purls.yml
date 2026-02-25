@@ -1,6 +1,11 @@
 - pkg:pypi/arize-toolkit@0.1.0rc1
 - pkg:pypi/arize-toolkit@1.0.0
 - pkg:pypi/arize-toolkit@1.0.1
+- pkg:pypi/arize-toolkit@1.0.10
+- pkg:pypi/arize-toolkit@1.0.10rc1
+- pkg:pypi/arize-toolkit@1.0.11rc1
+- pkg:pypi/arize-toolkit@1.0.11rc2
+- pkg:pypi/arize-toolkit@1.0.11rc3
 - pkg:pypi/arize-toolkit@1.0.1rc1
 - pkg:pypi/arize-toolkit@1.0.2
 - pkg:pypi/arize-toolkit@1.0.2rc1
@@ -14,4 +19,6 @@
 - pkg:pypi/arize-toolkit@1.0.7rc1
 - pkg:pypi/arize-toolkit@1.0.8
 - pkg:pypi/arize-toolkit@1.0.8rc1
+- pkg:pypi/arize-toolkit@1.0.9
+- pkg:pypi/arize-toolkit@1.0.9rc1
 - pkg:pypi/arize-toolkit@1.4rc1
