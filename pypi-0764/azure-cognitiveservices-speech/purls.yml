@@ -45,6 +45,8 @@
 - pkg:pypi/azure-cognitiveservices-speech@1.45.0
 - pkg:pypi/azure-cognitiveservices-speech@1.46.0
 - pkg:pypi/azure-cognitiveservices-speech@1.47.0
+- pkg:pypi/azure-cognitiveservices-speech@1.48.1
+- pkg:pypi/azure-cognitiveservices-speech@1.48.2
 - pkg:pypi/azure-cognitiveservices-speech@1.5.0
 - pkg:pypi/azure-cognitiveservices-speech@1.5.1
 - pkg:pypi/azure-cognitiveservices-speech@1.6.0

@@ -9,3 +9,4 @@
 - pkg:pypi/azure-mgmt-communication@2.1.0
 - pkg:pypi/azure-mgmt-communication@2.1.0b1
 - pkg:pypi/azure-mgmt-communication@2.1.0b2
+- pkg:pypi/azure-mgmt-communication@2.2.0

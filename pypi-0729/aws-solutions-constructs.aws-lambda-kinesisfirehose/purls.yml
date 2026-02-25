@@ -1,3 +1,5 @@
+- pkg:pypi/aws-solutions-constructs.aws-lambda-kinesisfirehose@2.100.0
+- pkg:pypi/aws-solutions-constructs.aws-lambda-kinesisfirehose@2.100.1
 - pkg:pypi/aws-solutions-constructs.aws-lambda-kinesisfirehose@2.30.0
 - pkg:pypi/aws-solutions-constructs.aws-lambda-kinesisfirehose@2.31.0
 - pkg:pypi/aws-solutions-constructs.aws-lambda-kinesisfirehose@2.32.0
@@ -80,3 +82,6 @@
 - pkg:pypi/aws-solutions-constructs.aws-lambda-kinesisfirehose@2.95.0
 - pkg:pypi/aws-solutions-constructs.aws-lambda-kinesisfirehose@2.95.1
 - pkg:pypi/aws-solutions-constructs.aws-lambda-kinesisfirehose@2.96.0
+- pkg:pypi/aws-solutions-constructs.aws-lambda-kinesisfirehose@2.97.0
+- pkg:pypi/aws-solutions-constructs.aws-lambda-kinesisfirehose@2.98.0
+- pkg:pypi/aws-solutions-constructs.aws-lambda-kinesisfirehose@2.99.0

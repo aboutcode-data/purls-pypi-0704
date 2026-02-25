@@ -194,5 +194,7 @@
 - pkg:pypi/azure-cli@2.8.0
 - pkg:pypi/azure-cli@2.80.0
 - pkg:pypi/azure-cli@2.81.0
+- pkg:pypi/azure-cli@2.82.0
+- pkg:pypi/azure-cli@2.83.0
 - pkg:pypi/azure-cli@2.9.0
 - pkg:pypi/azure-cli@2.9.1
