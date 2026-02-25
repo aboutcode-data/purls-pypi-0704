@@ -28,6 +28,11 @@
 - pkg:pypi/alibabacloud-eas20210701@6.0.1
 - pkg:pypi/alibabacloud-eas20210701@6.1.0
 - pkg:pypi/alibabacloud-eas20210701@6.10.0
+- pkg:pypi/alibabacloud-eas20210701@6.10.1
+- pkg:pypi/alibabacloud-eas20210701@6.11.0
+- pkg:pypi/alibabacloud-eas20210701@6.11.1
+- pkg:pypi/alibabacloud-eas20210701@6.11.2
+- pkg:pypi/alibabacloud-eas20210701@6.11.3
 - pkg:pypi/alibabacloud-eas20210701@6.2.0
 - pkg:pypi/alibabacloud-eas20210701@6.3.0
 - pkg:pypi/alibabacloud-eas20210701@6.4.0

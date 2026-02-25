@@ -4,3 +4,5 @@
 - pkg:pypi/alibabacloud-tablestore20201209@1.1.1
 - pkg:pypi/alibabacloud-tablestore20201209@1.1.2
 - pkg:pypi/alibabacloud-tablestore20201209@1.2.0
+- pkg:pypi/alibabacloud-tablestore20201209@2.0.0
+- pkg:pypi/alibabacloud-tablestore20201209@3.0.0
