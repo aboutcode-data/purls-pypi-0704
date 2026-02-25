@@ -316,3 +316,5 @@
 - pkg:pypi/canonmap@0.4.89
 - pkg:pypi/canonmap@0.4.9
 - pkg:pypi/canonmap@0.4.90
+- pkg:pypi/canonmap@1.0.1
+- pkg:pypi/canonmap@1.0.2
