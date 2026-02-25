@@ -1,2 +1,4 @@
 - pkg:pypi/bareduckdb@0.2.142
 - pkg:pypi/bareduckdb@0.3.142
+- pkg:pypi/bareduckdb@0.6.143
+- pkg:pypi/bareduckdb@0.8.144

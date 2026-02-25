@@ -6,9 +6,13 @@
 - pkg:pypi/barangay@0.3.1
 - pkg:pypi/barangay@0.3.3
 - pkg:pypi/barangay@2025.10.13.0
+- pkg:pypi/barangay@2025.10.13.1
+- pkg:pypi/barangay@2025.10.13.2
 - pkg:pypi/barangay@2025.7.31.0
 - pkg:pypi/barangay@2025.7.31.1
 - pkg:pypi/barangay@2025.7.8.4
 - pkg:pypi/barangay@2025.7.8.4.post1
 - pkg:pypi/barangay@2025.7.8.5
 - pkg:pypi/barangay@2025.8.29.1
+- pkg:pypi/barangay@2026.1.13.0
+- pkg:pypi/barangay@2026.1.13.1
