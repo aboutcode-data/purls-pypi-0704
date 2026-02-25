@@ -2,6 +2,7 @@
 - pkg:pypi/aspose-gis-net@25.1.0
 - pkg:pypi/aspose-gis-net@25.10.0
 - pkg:pypi/aspose-gis-net@25.11.0
+- pkg:pypi/aspose-gis-net@25.12.0
 - pkg:pypi/aspose-gis-net@25.2.0
 - pkg:pypi/aspose-gis-net@25.3.0
 - pkg:pypi/aspose-gis-net@25.4.0
@@ -10,3 +11,4 @@
 - pkg:pypi/aspose-gis-net@25.7.0
 - pkg:pypi/aspose-gis-net@25.8.0
 - pkg:pypi/aspose-gis-net@25.9.0
+- pkg:pypi/aspose-gis-net@26.1.0

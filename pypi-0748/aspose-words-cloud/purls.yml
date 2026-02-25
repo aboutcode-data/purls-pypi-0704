@@ -65,6 +65,7 @@
 - pkg:pypi/aspose-words-cloud@25.1.0
 - pkg:pypi/aspose-words-cloud@25.10.0
 - pkg:pypi/aspose-words-cloud@25.11.0
+- pkg:pypi/aspose-words-cloud@25.12.0
 - pkg:pypi/aspose-words-cloud@25.2.0
 - pkg:pypi/aspose-words-cloud@25.3.0
 - pkg:pypi/aspose-words-cloud@25.4.0
@@ -73,3 +74,5 @@
 - pkg:pypi/aspose-words-cloud@25.7.0
 - pkg:pypi/aspose-words-cloud@25.8.0
 - pkg:pypi/aspose-words-cloud@25.9.0
+- pkg:pypi/aspose-words-cloud@26.1.0
+- pkg:pypi/aspose-words-cloud@26.2.0
